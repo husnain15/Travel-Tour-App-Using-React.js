@@ -1,0 +1,17 @@
+
+
+.main{
+    width: 100%;
+    .sectTitle{
+        .title{
+            position: relative;
+            width:max-content;
+            color:textColor
+
+
+        }
+
+    }
+}
+
+
